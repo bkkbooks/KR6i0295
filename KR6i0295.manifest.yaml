@@ -1,0 +1,521 @@
+canonical_identifier: bkk:krp/KR6i0295/v1
+canonical_location: https://kanripo.org/bkk/KR6i0295/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說華手經
+  identifiers:
+    alt_id:
+    - T16n0657
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0657.xml
+    old_id: T16n0657
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 宮
+  label: 宮
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 磧乙-CB
+  label: 磧乙-CB
+  source_xml_id: wit7
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0295_000.yaml, hash: 'sha256:cb9ba0a50526ba25b782bde9c88bb2ba3ef55df56d43bfcb69673963b93035c3'}
+  - {seq: 1, filename: KR6i0295_001.yaml, hash: 'sha256:14f303709f02bc4c26f2e6d01450f6ad65499b62608071222aa6eeac89f77143'}
+  - {seq: 2, filename: KR6i0295_002.yaml, hash: 'sha256:59c77cb8f33a2b67dbed60cfa7d6e72dd9f395816da190a81429a30dbe0606cb'}
+  - {seq: 3, filename: KR6i0295_003.yaml, hash: 'sha256:4fb589e4ae38a24a00a2827a38d84e21d17f344a46d5b7e0491a9dc50b618211'}
+  - {seq: 4, filename: KR6i0295_004.yaml, hash: 'sha256:a872dbbbf0af2e3bf2f33392645a3c0e80b920b9b5f23f45ab94c48d342cefd2'}
+  - {seq: 5, filename: KR6i0295_005.yaml, hash: 'sha256:c2fee02d3dfb37dfc4a26ad00116965d3bdcab774f00a6107f549c7bf4d1a48d'}
+  - {seq: 6, filename: KR6i0295_006.yaml, hash: 'sha256:3517edd24a3cc19e1995e5bee1ebf4397d71c609cd796bcd0b27870facc9276b'}
+  - {seq: 7, filename: KR6i0295_007.yaml, hash: 'sha256:185e748599abc57a20c8dba94c32066334707b3b15764b1a6520e57ce7808c93'}
+  - {seq: 8, filename: KR6i0295_008.yaml, hash: 'sha256:fedd3cbfad195231d793e316dfc0fa25a6bbfb008a270d6180d5485ff6b4698f'}
+  - {seq: 9, filename: KR6i0295_009.yaml, hash: 'sha256:a27405c50f3ec2b9574b227511fd6b85ca5d4eed3503cf4d609f7b40be2c1347'}
+  - {seq: 10, filename: KR6i0295_010.yaml, hash: 'sha256:6094dbee9294d6519e97f86b503a78308f81b4ce12e48ebd2e0dd9ca1fed6c45'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0295_001.markers.yaml, hash: 'sha256:3949ad1df94ad9036061767006b30c199e1308c0352f15433dd593776298df5d'}
+  - {seq: 2, role: markers, filename: assets/KR6i0295_002.markers.yaml, hash: 'sha256:9eea32dbfa4d08718f72a18283e47dedc237ede697a6f449e8bae0bbcff3bed9'}
+  - {seq: 3, role: markers, filename: assets/KR6i0295_003.markers.yaml, hash: 'sha256:5da5ff7ccce67b2ea8ac83aa4b2b20b2abea1b2917b2cabd946e64f507cc9b31'}
+  - {seq: 4, role: markers, filename: assets/KR6i0295_004.markers.yaml, hash: 'sha256:388fad0428f2e0b3e211746386271869e955f7dfbfce384a17cf13974363ab97'}
+  - {seq: 5, role: markers, filename: assets/KR6i0295_005.markers.yaml, hash: 'sha256:05f744d22f121b31010b23d54ddc24b04be3d0f809a06543641cf1140a63db8e'}
+  - {seq: 6, role: markers, filename: assets/KR6i0295_006.markers.yaml, hash: 'sha256:ee9008c9d2717a609152cd3cd94b2ac638b7c41a7753daba67a35117e94cbaee'}
+  - {seq: 7, role: markers, filename: assets/KR6i0295_007.markers.yaml, hash: 'sha256:6880b890fa5313df798671e8e6633afb8679209e5fbd8dd602bef678ee32cffa'}
+  - {seq: 8, role: markers, filename: assets/KR6i0295_008.markers.yaml, hash: 'sha256:52842857a0dfe9ed018d6e056b745a3f196564faed9daea5844694aab8d5d8a3'}
+  - {seq: 9, role: markers, filename: assets/KR6i0295_009.markers.yaml, hash: 'sha256:9f9e64ce75ed9ebc0504750c77e094cf9cb8be56d65c9f01e41620ec0c035e3a'}
+  - {seq: 10, role: markers, filename: assets/KR6i0295_010.markers.yaml, hash: 'sha256:cc4aca36fcdf2b7b7503c9d08aa78bd0137a43bda3716b1436342340c385f069'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0295_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9546
+  label: 佛說華手經卷第一亦名攝諸善根經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0295_T_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 序品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0295_T_001-mulu-2
+    span:
+    - body
+    - 2492
+    - 2492
+  label: 2 神力品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0295_T_001-mulu-3
+    span:
+    - body
+    - 4272
+    - 4272
+  label: 3 網明品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0295_T_001-mulu-4
+    span:
+    - body
+    - 6702
+    - 6702
+  label: 4 如相品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0295_T_001-mulu-5
+    span:
+    - body
+    - 8045
+    - 8045
+  label: 5 不信品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8935
+  label: 佛說華手經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 6 念處品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-mulu-2
+    span:
+    - body
+    - 1095
+    - 1095
+  label: 7 發心即轉法輪品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-mulu-3
+    span:
+    - body
+    - 2646
+    - 2646
+  label: 8 現變品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-mulu-4
+    span:
+    - body
+    - 3991
+    - 3991
+  label: 9 如來力品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-mulu-5
+    span:
+    - body
+    - 5553
+    - 5553
+  label: 10 功德品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0295_T_002-mulu-6
+    span:
+    - body
+    - 7078
+    - 7078
+  label: 11 發心品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0295_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10748
+  label: 佛說華手經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0295_T_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 12 無憂品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0295_T_003-mulu-2
+    span:
+    - body
+    - 2623
+    - 2623
+  label: 13 中說品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0295_T_003-mulu-3
+    span:
+    - body
+    - 5736
+    - 5736
+  label: 14 總相品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0295_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 11257
+  label: 佛說華手經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0295_T_004-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 15 上清淨品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0295_T_004-mulu-2
+    span:
+    - body
+    - 9466
+    - 9466
+  label: 16 散華品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0295_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 11484
+  label: 佛說華手經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0295_T_005-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 17 眾相品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0295_T_005-mulu-2
+    span:
+    - body
+    - 4406
+    - 4406
+  label: 18 諸方品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0295_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 13034
+  label: 佛說華手經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0295_T_006-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 19 三昧品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0295_T_006-mulu-2
+    span:
+    - body
+    - 1195
+    - 1195
+  label: 20 求法品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0295_T_006-mulu-3
+    span:
+    - body
+    - 8355
+    - 8355
+  label: 21 歎德品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0295_T_006-mulu-4
+    span:
+    - body
+    - 9500
+    - 9500
+  label: 22 驗行品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0295_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 14306
+  label: 佛說華手經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0295_T_007-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 23 得念品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0295_T_007-mulu-2
+    span:
+    - body
+    - 5570
+    - 5570
+  label: 24 正見品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0295_T_007-mulu-3
+    span:
+    - body
+    - 6499
+    - 6499
+  label: 25 歎教品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0295_T_007-mulu-4
+    span:
+    - body
+    - 10020
+    - 10020
+  label: 26 毀壞品(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0295_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6031
+  label: 佛說華手經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0295_T_008-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 27 眾雜品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0295_T_008-mulu-2
+    span:
+    - body
+    - 2825
+    - 2825
+  label: 28 眾妙品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0295_T_008-mulu-3
+    span:
+    - body
+    - 4007
+    - 4007
+  label: 29 逆順品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0295_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 11506
+  label: 佛說華手經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0295_T_009-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 30 不退轉品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0295_T_009-mulu-2
+    span:
+    - body
+    - 6446
+    - 6446
+  label: 31 為法品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0295_T_009-mulu-3
+    span:
+    - body
+    - 8212
+    - 8212
+  label: 32 歎會品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0295_T_009-mulu-4
+    span:
+    - body
+    - 9370
+    - 9370
+  label: 33 上堅德品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0295_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7020
+  label: 佛說華手經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0295_T_010-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 34 法門品(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0295_T_010-mulu-2
+    span:
+    - body
+    - 5431
+    - 5431
+  label: 35 囑累品(一〇)
+  type: mulu
+  level: 1
+hash: sha256:eede638237ee306dc8fb658cff1134d2761be54d5c6e74b0f2b6f5deff1fe8ba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
